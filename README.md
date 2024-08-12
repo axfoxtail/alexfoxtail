@@ -1,7 +1,7 @@
 ![Login Page](smoky-mountains.jpg)
 
-### Hi, I'm Joe!👋
-I'm a full-stack software engineer who loves React.js, Tailwind CSS, and all things front-end web development. I love writing, programming, and am a career-long Vim addict.
+### Hi, I'm Alexandru!👋
+I'm a full-stack software engineer who loves React.js, Tailwind CSS, and front-end web development. I love writing and programming, and I am a career-long Vim addict.
 
 ### Professional Skills
 * **Software Development**: TypeScript/JavaScript, HTML5, CSS3, Node.js, React.js, Recoil, Redux, Next.js, Vue.js, Angular, Nest.js, Express, Nrwl NX, PHP, C#, REST API, * SQL Server, MySQL, MongoDB, GraphQL, Prisma, TypeOrm, Sequelize, MSAL, Postman, Swagger, Jira, Functional Programming, Object-Oriented Programming, Agile & Waterfall Methodologies
@@ -10,4 +10,4 @@ I'm a full-stack software engineer who loves React.js, Tailwind CSS, and all thi
 * **System Administration**: Windows Server, Linux, PowerShell, Batch Scripting, Bash, IIS, Apache
 * **Desktop Support**: Office 365, Printers, Networking, Hardware Troubleshooting
 
-Check out my website at: [joebrady.dev](https://joebrady.dev/)
+Check out my website at: [alexandru-nicolae.vercel.app](https://alexandru-nicolae.vercel.app/)
